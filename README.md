@@ -11,7 +11,6 @@ You can find me on [Discord][discord] as `ZeRiix`
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeRiix&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeRiix&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZeRiix&theme=github_dark)
 
 [website]: https://zeriix.fr/
