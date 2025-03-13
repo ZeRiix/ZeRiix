@@ -15,4 +15,4 @@ You can find me on [Discord][discord] as `ZeRiix`
 
 [website]: https://zeriix.fr/
 [discord]: https://discord.com/users/342590832295149570
-[duplojs]: "https://docs.duplojs.dev/fr/latest/"
+[duplojs]: https://docs.duplojs.dev/fr/latest/
