@@ -17,3 +17,4 @@ You can find me on [Discord][discord] as `ZeRiix`
 [website]: https://zeriix.fr/
 [discord]: https://discord.com/users/342590832295149570
 [duplojs]: https://github.com/duplojs
+
